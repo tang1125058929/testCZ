@@ -4,6 +4,7 @@
 ### Features
 
 * **测试类:** 新增一个测试类 ([86b6365](https://github.com/tang1125058929/testCZ/commit/86b6365fabccfb595100d3417e86d105e5980318))
+* **changelog:** 新增changelog文件 ([277a006](https://github.com/tang1125058929/testCZ/commit/277a0062eeedd8d8d2dcad7987cd6e93a0ce09a8))
 
 
 
